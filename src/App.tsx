@@ -2,10 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App(): React.JSX.Element {
   return (
     <div className="App">
       <header className="App-header">
+        Axel Rodriguez-Leon
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
