@@ -6,8 +6,11 @@ function App(): React.JSX.Element {
   return (
     <div className="App">
       <header className="App-header">
-        Axel Rodriguez-Leon
+        Links to jump down to another part of the website
       </header>
+      <a>
+        Axel Rodriguez-Leon
+      </a>
     </div>
   );
 }
